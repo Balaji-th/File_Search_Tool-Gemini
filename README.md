@@ -29,10 +29,13 @@ The application allows you to upload a PDF file and ask questions about its cont
     ```
 5.  Open your browser and navigate to `http://localhost:5000`.
 
+<img width="1848" height="852" alt="image" src="https://github.com/user-attachments/assets/7c929d3f-0dbe-43db-b13a-76a160f822ff" />
+
+
 ## File Search Gemini API
 
 This application is powered by the Google Gemini API. You can learn more about the file search capabilities in the official Google AI blog post.
 
 [Learn more about the File Search Gemini API](https://blog.google/technology/developers/file-search-gemini-api/)
 
-![File Search Gemini API](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_1_hP4a44q.width-1200.format-webp.webp)
+
