@@ -1,6 +1,6 @@
 # File Search Tool
 
-This repository contains a simple web application that demonstrates the power of the Google Gemini API for file searching.
+ **File Search Tool**, a fully managed RAG system built directly into the Gemini API that abstracts away the retrieval pipeline so you can focus on building. File Search provides a simple, integrated and scalable way to ground Gemini with your data, delivering responses that are more accurate, relevant and verifiable.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FileSearch-Keyword_RD2-V01.width-1300.png)
 
 ## How it works
