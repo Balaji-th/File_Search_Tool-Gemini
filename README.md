@@ -1,7 +1,7 @@
 # File Search Tool
 
 This repository contains a simple web application that demonstrates the power of the Google Gemini API for file searching.
-(https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FileSearch-Keyword_RD2-V01.width-1600.format-webp.webp)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FileSearch-Keyword_RD2-V01.width-1600.format-webp.webp)
 
 ## How it works
 
